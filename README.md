@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 🤝 I’m looking to collaborate on...
 ---
 > - 💬 ***A chatting application***
-> - 🕹️ ***A Game Developer group***
+> - 🕹️ ***Game Developent***
 
 <br/>
 
