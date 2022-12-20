@@ -1,4 +1,6 @@
 ### Hi there 👋
+*Self-taught developer for .NET, ASP.NET, Java, BASIC, WPF, WinForms, XAML, Python, Unity, Unreal, C++, Rust and more.*
+https://dexeloper.com/
 
 <!--
 **developerx-official/developerx-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
