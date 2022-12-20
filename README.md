@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-🤝 I’m looking to collaborate on...
+🤝 *I’m looking to collaborate on...*
 ---
 > - 💬 ***A chatting application***
 > - 🕹️ ***Game Developent***
