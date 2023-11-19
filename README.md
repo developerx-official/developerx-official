@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👀 *You can find me working on...*
 ---
-> - ⚙️ ***Learning the ins and outs of Rust***
+> - ⚙️ ***Performant software in Rust***
 > - 👔 ***Making websites/desktop applications with C#/.NET***
 > - 🎮 ***Game Development with Unity***
 > - 💻 ***Operating Systems Engineering with Rust and CosmosOs***
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 💬 *Ask me about...*
 ---
-> - 💖 ***C#/.NET***
+> - 💖 ***Rust, C#, and .NET***
 > - 👽 ***Star Trek/SciFi***
 > - 🎵 ***Music Theory***
 
