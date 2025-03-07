@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 > - ⚙️ ***Performant software in Rust***
 > - 👔 ***Making websites/desktop applications with C#/.NET***
 > - 🎮 ***Game Development with Unity/Godot***
-> - 💻 ***Operating Systems Engineering with Rust and CosmosOs***
+> - 💻 ***Operating Systems with Rust and CosmosOs***
 > - 🌐 ***API's/Bots***
 
 <br/>
@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!--
 🤝 *I’m looking to collaborate on...*
 ---
 > - 💬 ***A chatting application***
 > - 🕹️ ***Game Developent***
+-->
 
 <br/>
 
