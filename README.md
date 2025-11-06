@@ -56,9 +56,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerx-official&theme=material-palenight" />
 </a>
-
-<br/>
-
-<a href="https://dexeloper.com/">
-  <img align="right" src="https://dexeloper.com/wp-content/uploads/2022/01/Artboard_1_copy_3DEV_X-150x150.png" width="40px"/>
-</a>
